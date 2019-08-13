@@ -6,3 +6,4 @@ Maybe we will find out/#
 =======
 #/What Happened to my edits?
 >>>>>>> master
+Now I am editing with Notepad++ will git get irreconsilibly confused?
